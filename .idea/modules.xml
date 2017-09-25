@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyFrameDemo.iml" filepath="$PROJECT_DIR$/MyFrameDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customview/customview.iml" filepath="$PROJECT_DIR$/customview/customview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dbmodule/dbmodule.iml" filepath="$PROJECT_DIR$/dbmodule/dbmodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/httpmodule/httpmodule.iml" filepath="$PROJECT_DIR$/httpmodule/httpmodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projectmodule/projectmodule.iml" filepath="$PROJECT_DIR$/projectmodule/projectmodule.iml" />
+    </modules>
+  </component>
+</project>

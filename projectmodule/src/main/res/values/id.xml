@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="toobar" type="id"/>
+    <item name="content_toolbar" type="id"/>
+    <item name="toobar_title" type="id"/>
+    <item name="splash_img" type="id"/>
+    <item name="recycler_view" type="id"/>
+    <item name="swipe_refresh" type="id"/>
+    <item name="pulltorefresh_recycler" type="id"/>
+    <item name="tab_layout" type="id"/>
+    <item name="view_pager" type="id"/>
+</resources>

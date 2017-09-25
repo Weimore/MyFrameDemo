@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="130dp"
+    android:padding="5dp">
+    <ImageView
+        android:id="@+id/item_image"
+        android:scaleType="centerCrop"
+        android:background="@drawable/sample_item_backgroud"
+        android:layout_width="match_parent"
+        android:layout_height="100dp" />
+    <TextView
+        android:id="@+id/item_text"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:gravity="center_horizontal"
+        android:maxLines="2"
+        android:textSize="15sp"
+        android:textColor="@color/colorBlack"
+        android:text="公司名-姓名-市场名"/>
+</LinearLayout>
